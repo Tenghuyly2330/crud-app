@@ -10,7 +10,7 @@ on:
 
 jobs:
 
-  # code verification
+  # code testing & verification
   test:
     name: Test & Validate
     runs-on: ubuntu-latest
